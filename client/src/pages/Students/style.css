@@ -1,0 +1,30 @@
+h3{
+    margin-top: 20px;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+th{
+    background-color: lightgreen;
+    padding: 10px 20px;
+}
+td{
+    background-color: lightgray;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.delete-all{
+    display: block;
+    margin: 20px auto;
+
+}
+
+.delete-all:hover{
+    background: red;
+}

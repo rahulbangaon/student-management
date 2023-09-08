@@ -1,0 +1,10 @@
+.search-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-bar{
+    padding: 10px;
+    
+}

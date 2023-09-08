@@ -1,0 +1,18 @@
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+span{
+    font-size: 28px;
+}
+
+.delete-btn:hover{
+    color: red;
+}
+
+.update-btn:hover{
+color: green;
+}

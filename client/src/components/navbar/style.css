@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    background: rgb(22, 22, 56);
+    color: white;
+    padding: 10px 20px;
+    
+}
+
+.nav-items{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
